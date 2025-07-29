@@ -1,7 +1,3 @@
-######################################
-#############  VARIABLE  #############
-######################################
-
 #
 # VARWARSZTATENTRE
 #
@@ -159,54 +155,6 @@ OBJECT=VARINTRO
 VARINTRO:TYPE=INTEGER
 VARINTRO:VALUE=0
 
-######################################
-##############  ANIMO  ###############
-######################################
-
-######################################
-##############  IMAGE  ###############
-######################################
-
-######################################
-##############  BUTTON  ##############
-######################################
-
-######################################
-###############  TEXT  ###############
-######################################
-
-######################################
-###############  PAINTER  ###############
-######################################
-
-######################################
-################  SEQ  ###############
-######################################
-
-######################################
-###############  RAND  ###############
-######################################
-
-######################################
-##############  TIMER  ###############
-######################################
-
-######################################
-###############  GROUP  ##############
-######################################
-
-######################################
-###############  SOUND  ##############
-######################################
-
-######################################
-###############  FONT  ###############
-######################################
-
-######################################
-###############  ARRAY  ###############
-######################################
-
 #
 # ARRAYWARSZTATPRZEDMIOTY
 #
@@ -218,20 +166,6 @@ ARRAYWARSZTATPRZEDMIOTY:TYPE=ARRAY
 #
 OBJECT=ARRAYWARSZTATMENUPRZEDMIOTY
 ARRAYWARSZTATMENUPRZEDMIOTY:TYPE=ARRAY
-
-#
-# ARRAYZASLONY55
-#
-OBJECT=ARRAYZASLONY55
-ARRAYZASLONY55:TYPE=ARRAY
-
-######################################
-###############  EDITBOX  ###############
-######################################
-
-######################################
-##########  CANVAS OBSERVER  #########
-######################################
 
 #
 # MOUSE
@@ -257,85 +191,16 @@ CNVLOADER:TYPE=CNVLOADER
 OBJECT=CANVAS_OBSERVER
 CANVAS_OBSERVER:TYPE=CANVAS_OBSERVER
 
-######################################
-#############  CONDITION  #############
-######################################
-
-######################################
-#############  COMPLEX CONDITION  #############
-######################################
-
-######################################
-#############  EXPRESSION  #############
-######################################
-
-######################################
-#############  CNV  #############
-######################################
-
-######################################
-#############  VECTOR  #############
-######################################
-
-######################################
-#############  FILTER  #############
-######################################
-
-######################################
-#############  SIGNAL  #############
-######################################
-
-######################################
-#############  BEHAVIOUR  #############
-######################################
-
-#
-# BEHRESETROZDZIAL8
-#
-OBJECT=BEHRESETROZDZIAL8
-BEHRESETROZDZIAL8:TYPE=BEHAVIOUR
-BEHRESETROZDZIAL8:CODE={}
-#
-# BEHRESETROZDZIAL7
-#
-OBJECT=BEHRESETROZDZIAL7
-BEHRESETROZDZIAL7:TYPE=BEHAVIOUR
-BEHRESETROZDZIAL7:CODE={}
-#
-# BEHRESETROZDZIAL6
-#
-OBJECT=BEHRESETROZDZIAL6
-BEHRESETROZDZIAL6:TYPE=BEHAVIOUR
-BEHRESETROZDZIAL6:CODE={}
-#
-# BEHRESETROZDZIAL5
-#
-OBJECT=BEHRESETROZDZIAL5
-BEHRESETROZDZIAL5:TYPE=BEHAVIOUR
-BEHRESETROZDZIAL5:CODE={}
-#
-# BEHRESETROZDZIAL4
-#
-OBJECT=BEHRESETROZDZIAL4
-BEHRESETROZDZIAL4:TYPE=BEHAVIOUR
-BEHRESETROZDZIAL4:CODE={}
-#
-# BEHRESETROZDZIAL3
-#
-OBJECT=BEHRESETROZDZIAL3
-BEHRESETROZDZIAL3:TYPE=BEHAVIOUR
-BEHRESETROZDZIAL3:CODE={}
 #
 # BEHRESETROZDZIAL2
 #
 OBJECT=BEHRESETROZDZIAL2
 BEHRESETROZDZIAL2:TYPE=BEHAVIOUR
-BEHRESETROZDZIAL2:CODE={VARWARSZTATENTRE^SET( 0 );VARPODWORKOENTRE^SET( 0 );ARRAYWARSZTATMENUPRZEDMIOTY^REMOVEALL();ARRAYWARSZTATMENUPRZEDMIOTY^SAVEINI();ARRAYWARSZTATPRZEDMIOTY^REMOVEALL();ARRAYWARSZTATPRZEDMIOTY^SAVEINI();}
-#
-# BEHRESETROZDZIAL1
-#
-OBJECT=BEHRESETROZDZIAL1
-BEHRESETROZDZIAL1:TYPE=BEHAVIOUR
-BEHRESETROZDZIAL1:CODE={VARSPACEINVADERSBRON^SET( 0 );}
-
-
+BEHRESETROZDZIAL2:CODE={ /
+    VARWARSZTATENTRE^SET( 0 ); /
+    VARPODWORKOENTRE^SET( 0 ); /
+    ARRAYWARSZTATMENUPRZEDMIOTY^REMOVEALL(); /
+    ARRAYWARSZTATMENUPRZEDMIOTY^SAVEINI(); /
+    ARRAYWARSZTATPRZEDMIOTY^REMOVEALL(); /
+    ARRAYWARSZTATPRZEDMIOTY^SAVEINI(); /
+}
