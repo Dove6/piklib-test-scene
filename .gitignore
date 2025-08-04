@@ -1,6 +1,14 @@
+# cnc-ddraw shaders dir
 /[Ss][Hh][Aa][Dd][Ee][Rr][Ss]/
+
+# Piklib screenshot dir
 [Ss][Cc][Rr][Ee][Nn][Ss][Hh][Oo][Tt][Ss]/
+
+# Executables
 *.[Dd][Ll][Ll]
 *.[Ee][Xx][Ee]
+
+# Configurations and logs
 *.[Ii][Nn][Ii]
 *.[Ll][Oo][Gg]
+listing.json

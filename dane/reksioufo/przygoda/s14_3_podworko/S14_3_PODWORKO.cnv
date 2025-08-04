@@ -797,6 +797,12 @@ SNDKIESZEN:TYPE=SOUND
 SNDKIESZEN:FILENAME=NARR21_0_2.WAV
 SNDKIESZEN:PRELOAD=FALSE
 SNDKIESZEN:FLUSHAFTERPLAYED=FALSE
+SNDKIESZEN:ONSTARTED={ /
+    SHOW_TEXT^RUN("Reksio~by³~przeci¹¿ony~i~nie~móg³~unieœæ~ju¿~wiêcej~przedmiotów.~Nale¿a³o~albo,~albo."); /
+}
+SNDKIESZEN:ONFINISHED={ /
+    HIDE_TEXT^RUN(); /
+}
 
 ######################################
 ###############  FONT  ###############
@@ -825,6 +831,9 @@ ARRAYPRZEDMIOTY:TYPE=ARRAY
 #
 OBJECT=MOUSE
 MOUSE:TYPE=MOUSE
+MOUSE:ONCLICK={ /
+    @IF("SNDKIESZEN^ISPLAYING()","_","TRUE","{SNDKIESZEN^STOP(TRUE);}",""); /
+}
 
 #
 # KEYBOARD
