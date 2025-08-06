@@ -1,9 +1,5 @@
-counter = [-1]
-
-def generate_objects(name):
-    global counter
-    counter[0] += 1
-    return rf'''OBJECT=ITEM_INV_{name}
+def generate_objects(name, pick_index, used_index=None):
+    ret = rf'''OBJECT=ITEM_INV_{name}
 ITEM_INV_{name}:TYPE=IMAGE
 ITEM_INV_{name}:VISIBLE=FALSE
 ITEM_INV_{name}:FILENAME=$COMMON\BUDOWA\INV_{name}.IMG
@@ -15,49 +11,63 @@ ITEM_PICK_{name}:TYPE=ANIMO
 ITEM_PICK_{name}:VISIBLE=TRUE
 ITEM_PICK_{name}:FILENAME=$COMMON\BUDOWA\PICK_{name}.ANN
 ITEM_PICK_{name}:TOCANVAS=TRUE
-ITEM_PICK_{name}:PRIORITY={200+counter[0]}
+ITEM_PICK_{name}:PRIORITY={200 + pick_index}
 ITEM_PICK_{name}:ONFOCUSON={{;}}
 ITEM_PICK_{name}:ONINIT={{THIS^SETASBUTTON(TRUE, TRUE);}}
 ITEM_PICK_{name}:ONCLICK=BEHADDITEMTOMENU("{name}")
 
-OBJECT=ITEM_USED_{name}
+'''
+    if used_index is not None:
+        ret += rf'''OBJECT=ITEM_USED_{name}
 ITEM_USED_{name}:TYPE=ANIMO
 ITEM_USED_{name}:VISIBLE=FALSE
-ITEM_USED_{name}:FILENAME=$COMMON\BUDUOWA\USED_{name}.ANN
+ITEM_USED_{name}:FILENAME=$COMMON\BUDOWA\USED_{name}.ANN
 ITEM_USED_{name}:TOCANVAS=TRUE
-ITEM_USED_{name}:PRIORITY={200+counter[0]}
+ITEM_USED_{name}:PRIORITY={250 + used_index}
 
 '''
+    return ret
 
-items = [
-    'PRALKA',
-    'BUTELKA3',
-    'BECZKA',
-    'BALIA',
-    'OPONA',
-    'PIECYK',
-    'KOLOWROTEK',
-    'RURASPUSTOWA',
-    'OGRODOWAZ',
-    'RURAODKURA',
-    'ANTENA',
-    'LEJEK',
-    'BUTELKA1',
-    'BUTELKA2',
-    'RADYJKO',
-    'SZPULA',
-    'PULPIT',
-    'GRABIE',
-    'SZNUR',
-    'KATOMIERZ',
-    'DRABINA',
-    'KONEWKA',
-    'PRZETYKACZKA',
-    'WIOSLO',
-    'WIADRO',
-    'KOTWICA',
+items = [ #          index
+    # name,       pick, used
+    ('ANTENA',       0,    0),
+    ('BALIA',        2,    0),
+    ('BECZKA',       1,    1),
+    ('BUTELKA1',     0,    3),
+    ('BUTELKA2',     0,    3),
+    ('BUTELKA3',     3,    3),
+    ('DRABINA',      0, None),
+    ('GRABIE',       0,    0),
+    ('LEJEK',        0,    0),
+    ('KATOMIERZ',    0,    0),
+    ('KOLOWROTEK',   0,    2),
+    ('KONEWKA',      0, None),
+    ('KOTWICA',      0, None),
+    ('OGRODOWAZ',    0,    0),
+    ('OPONA',        0,    0),
+    ('PIECYK',       0,    0),
+    ('PRALKA',       0, None),
+    ('PRZETYKACZKA', 0, None),
+    ('PULPIT',       0,    0),
+    ('RADYJKO',      0,    2),
+    ('RURAODKURA',   0,    0),
+    ('RURASPUSTOWA', 0,    1),
+    ('SZNUR',        0,   10),
+    ('SZPULA',       0,    3),
+    ('WIADRO',       0, None),
+    ('WIOSLO',       4, None),
 ]
 
+with open('episode.cnv', 'r+', encoding='cp1250') as f:
+    while True:
+        line = f.readline()
+        if len(line) == 0:
+            break
+        if line.find('### Everything below this point will be truncated') > -1:
+            f.truncate(f.tell())
+            break
+
 with open('episode.cnv', 'a', encoding='cp1250') as f:
-    for item in items:
-        f.write(generate_objects(item))
+    f.write('\n')
+    for (item, pick_index, used_index) in items:
+        f.write(generate_objects(item, pick_index, used_index))
