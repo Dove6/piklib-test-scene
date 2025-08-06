@@ -4,13 +4,11 @@ def generate_objects(name):
     global counter
     counter[0] += 1
     return rf'''OBJECT=ITEM_INV_{name}
-ITEM_INV_{name}:TYPE=ANIMO
+ITEM_INV_{name}:TYPE=IMAGE
 ITEM_INV_{name}:VISIBLE=FALSE
-ITEM_INV_{name}:FILENAME=$COMMON\BUDOWA\INV_{name}.ANN
+ITEM_INV_{name}:FILENAME=$COMMON\BUDOWA\INV_{name}.IMG
 ITEM_INV_{name}:TOCANVAS=TRUE
 ITEM_INV_{name}:PRIORITY=300
-ITEM_INV_{name}:ONFOCUSON={{;}}
-ITEM_INV_{name}:ONCLICK=BEHREMOVEMENUITEM("{name}")
 
 OBJECT=ITEM_PICK_{name}
 ITEM_PICK_{name}:TYPE=ANIMO
@@ -60,6 +58,6 @@ items = [
     'KOTWICA',
 ]
 
-with open('budowa_generated.cnv', 'a', encoding='cp1250') as f:
+with open('episode.cnv', 'a', encoding='cp1250') as f:
     for item in items:
         f.write(generate_objects(item))
