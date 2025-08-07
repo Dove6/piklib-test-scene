@@ -1,1 +1,1 @@
-Nie chcê tu œmieciæ! Od³o¿ê to tylko na pierwotne miejsce!|10000|NULL|NULL|NULL|NULL|NULL
+Nie chcê tu œmieciæ! Od³o¿ê to tylko na w³aœciwe miejsce.|10000|NULL|NULL|NULL|NULL|NULL

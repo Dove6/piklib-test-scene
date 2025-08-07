@@ -1,1 +1,1 @@
-Œwietnie, pasuje idealnie! Jest ju¿ lokacja na list, ale przed nasro-ko-kobaniem go, potrzebny bêdzie pewnego rodzaju przedmiot, który by przetransportowa³ zawartoœæ listu do nadajnika.|10000|NULL|NULL|NULL|NULL|NULL
+Œwietnie, pasuje idealnie! Jest ju¿ miejsce na list, ale zanim go nasro-ko-kobiê, potrzeba jeszcze czegoœ, co by zebra³o linie tek-kstu i nawinê³o je na nadajnik.|10000|NULL|NULL|NULL|NULL|NULL

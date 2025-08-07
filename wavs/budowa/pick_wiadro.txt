@@ -1,1 +1,3 @@
-Mam wra¿enie, ¿e dziwnie pachnie. Mêczy siê Kogut, mêczy, ¿eby coœ ciekawego jeszcze powiedzieæ. Czy to ja powinienem kogoœ winiæ za moje nieoryginalne myœli? W ka¿dym razie, aktualnie mam wa¿niejsze sprawy na mojej ko-ko-koguciej g³owie!|10000|NULL|NULL|NULL|NULL|NULL
+Wiadro. Mam wra¿enie, ¿e dziwnie pachnie.|5000|NULL|NULL|NULL|NULL|NULL
+Mêczy siê Kogut, mêczy, ¿eby coœ ciekawego jeszcze powiedzieæ. Czy to ja powinienem ponosiæ winê za moje nieoryginalne myœli?|8000|NULL|NULL|NULL|NULL|NULL
+W ka¿dym razie aktualnie mam wa¿niejsze sprawy na mojej ko-ko-koguciej g³owie!|8000|NULL|NULL|NULL|NULL|NULL
