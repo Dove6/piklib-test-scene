@@ -1,0 +1,1 @@
+Ktoœ zrobi³ grê o mnie? Ko-ko-kosmiczna sprawa!<br>Witaj w tym prostym menu tekstowym. Co chcesz zrobiæ?<br>A. Ko-ko-kontynuowaæ przygodê!<br>B. Zacz¹æ grê od pocz¹tk-ku.|0|NULL|NULL|CONTINUE_GAME|START_NEW_GAME|NULL

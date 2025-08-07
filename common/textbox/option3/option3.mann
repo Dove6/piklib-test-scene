@@ -1,0 +1,85 @@
+ANN
+
+author=Piotr Maciejewski
+transparency=255
+bpp=16
+
+Event=NOEVENT
+	loop=0
+	transparency=255
+
+
+Event=FOCUSON
+	loop=0
+	transparency=255
+
+
+Event=FOCUSOFF
+	loop=0
+	transparency=255
+
+
+Event=CLICK
+	loop=0
+	transparency=255
+
+
+Event=ONNOEVENT
+	loop=0
+	transparency=255
+
+	Frame=option.png
+		name=OPCJA
+		position_x=0
+		position_y=0
+
+
+Event=ONFOCUSON
+	loop=0
+	transparency=255
+
+	Frame=option_focus.png
+		name=OPCJA
+		position_x=0
+		position_y=0
+
+
+Event=ONFOCUSOFF
+	loop=0
+	transparency=255
+
+	Frame=option.png
+		name=OPCJA
+		position_x=0
+		position_y=0
+
+
+Event=ONCLICK
+	loop=0
+	transparency=255
+
+	Frame=option_click.png
+		name=OPCJA
+		position_x=0
+		position_y=0
+
+
+
+image=option.png
+	name=OPTION
+	position_x=122
+	position_y=526
+	compression=4
+
+image=option_focus.png
+	name=OPTION
+	position_x=122
+	position_y=526
+	compression=4
+
+image=option_click.png
+	name=OPTION
+	position_x=122
+	position_y=526
+	compression=4
+

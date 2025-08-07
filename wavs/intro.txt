@@ -1,0 +1,4 @@
+Nie pamiêtam,<br>ile czasu ju¿ tutaj le¿y. Póki znajdowa³y siê w niej jeszcze ziarna, ku-kurki rzuca³y ni¹ w ka¿dym kierunku, ¿eby mo¿na by³o je zjeœæ.|5000|NULL|NULL|NULL|NULL|NULL
+Gdzie chcesz siê wybraæ?|2000|BEHGOTOPODWORKO|NULL|NULL|NULL|NULL
+A. Podwórko.<br>B. Staw.<br>C. Kurniki<br>D. Warsztat|0|SETPODWORKO|SETSTAW|NULL|SETWARSZTAT|NULL
+No dobra, to idziemy...|3000|BEHGOTO|NULL|NULL|NULL|NULL
