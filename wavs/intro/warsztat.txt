@@ -1,1 +1,2 @@
-O rety! Ko-ko-kornelku!!! Dlaczego to ciebie porwa³ ten statek!? Nie ma czasu do stracenia. Muszê jak najszybciej znaleŸæ miejsce do budowy wynalazku, który pozwoli³by mi go uratowaæ!|10000|NULL|NULL|NULL|NULL|NULL
+O rety, Kornelku-ku-ku!!! Dlaczego to ciebie porwa³ ten statek?!|5000|NULL|NULL|NULL|NULL|NULL
+Co robiæ, co robiæ...? Wiem! Szybko, muszê znaleŸæ miejsce do budowy wynalazku, który pozwoli³by mi go-go u-uratowaæ!|8000|NULL|NULL|NULL|NULL|NULL

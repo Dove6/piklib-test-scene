@@ -1,1 +1,2 @@
-Wydaje mi siê, ¿e tutaj bêdzie odpowiednie miejsce na zbudowanie gwiezdnego ku-kuriera. Muszê postawiæ maszynê, dziêki której Korneliusz otrzyma ode mnie wiadomoœæ. O samym liœcie bêdê myœla³ póŸniej. Teraz przede wszystkim trzeba znaleŸæ podstawê do budowli!|10000|NULL|NULL|NULL|NULL|NULL
+Wydaje mi siê, ¿e tu-utaj bêdzie odpowiednie miejsce na zbudowanie g-gwiezdnego ku-u-kuriera. Za jego pomoc¹ wyœlê Ko-korneliuszowi miêdzyga-galaktyczn¹ wiadomoœæ!|8000|NULL|NULL|NULL|NULL|NULL
+O zawartoœci listu pomyœlê w trak-trakcie budowy. Teraz przede wszystkim trzeba znaleŸæ jak¹œ stabiln¹ podstawê...|8000|STARTBUDOWA|NULL|NULL|NULL|NULL
