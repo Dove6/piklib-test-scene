@@ -1,2 +1,2 @@
 System ch³odniczy nareszcie sprawny! No to radoœnie!|5000|NULL|NULL|NULL|NULL|NULL
-Ju¿ wkrótce bêdê móg³ nadaæ wiadomoœæ do Ko-kornelka! Piórka mi siê je¿¹ na sam¹ myœl. Tylko-ko zanim j¹ napiszê, muszê znaleŸæ coœ, to bêdzie mog³o przytrzymaæ list.|10000|NULL|NULL|NULL|NULL|NULL
+Ju¿ wkrótce bêdê móg³ nadaæ wiadomoœæ do Ko-Kornelka! Piórka mi siê je¿¹ na sam¹ myœl. Tylko-ko zanim j¹ napiszê, muszê znaleŸæ coœ, to bêdzie mog³o przytrzymaæ list.|10000|NULL|NULL|NULL|NULL|NULL

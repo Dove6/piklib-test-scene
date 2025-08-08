@@ -1,0 +1,10 @@
+£a³, jest przepiêknie… Mam nadziejê, ¿e u niego widok jest równie ³adny.|5000|NULL|NULL|NULL|NULL|NULL
+Koniec koñców do³o¿y³em wszelkich starañ, zrobi³em wszystko, co w mojej mocy i  poœwiêci³em temu tyle potu i ³ez.|6000|NULL|NULL|NULL|NULL|NULL 
+Nie mogê mieæ nawet pewnoœci, ¿e otrzyma³ nadan¹ wiadomoœæ.|5000|NULL|NULL|NULL|NULL|NULL
+Jak to mówi¹? “Nadzieja umiera ostatnia…” Faktycznie, musi w tym byæ trochê prawdy.|5000|NULL|NULL|NULL|NULL|NULL
+Gdy tak przygl¹dam siê wschodz¹cemu s³oñcu, nadchodz¹cej jutrzence, przypominaj¹ mi siê wszystkie mi³e chwile spêdzone z moim bratem.|6000|NULL|NULL|NULL|NULL|NULL
+Dzisiejszy wieczór stanowi³ ich kres… Nigdy tego nie zapomnê...|5000|NULL|NULL|NULL|NULL|NULL
+Przeklêci kosmici! Jeœli kiedykolwiek ich jeszcze spotkam, popamiêtaj¹ mnie!|5000|NULL|NULL|NULL|NULL|NULL
+Kornel jest bardzo m¹drym kogutem, wiêc liczê, ¿e jakoœ sobie poradzi. Wiem, ¿e ja na jego miejscu skoñczy³bym o wiele gorzej...|6000|NULL|NULL|NULL|NULL|NULL
+¯ycie na podwórku bêdzie teraz o wiele cichsze. Prawdopodobnie to ja bêdê musia³ przej¹æ rolê lidera…|6000|NULL|NULL|NULL|NULL|NULL
+No có¿… czas obudziæ siostry i resztê kur. Mam im coœ przykrego do powiedzenia...|5000|ON_END|NULL|NULL|NULL|NULL
