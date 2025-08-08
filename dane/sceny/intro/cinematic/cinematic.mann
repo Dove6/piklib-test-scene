@@ -1,0 +1,2671 @@
+ANN
+
+author=Piotr Maciejewski
+transparency=255
+bpp=16
+
+Event=PLAY
+	loop=0
+	transparency=255
+
+	Frame=cinematic_0001.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0002.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0003.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0004.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0005.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0006.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0007.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0008.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0009.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0010.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0011.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0012.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0013.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0014.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0015.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0016.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0017.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0018.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0019.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0020.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0021.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0022.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0023.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0024.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0025.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0026.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0027.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0028.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0029.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0030.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0031.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0032.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0033.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0034.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0035.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0036.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0037.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0038.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0039.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0040.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0041.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0042.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0043.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0044.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0045.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0046.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0047.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0048.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0049.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0050.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0051.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0052.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0053.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0054.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0055.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0056.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0057.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0058.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0059.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0060.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0061.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0062.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0063.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0064.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0065.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0066.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0067.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0068.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0069.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0070.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0071.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0072.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0073.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0074.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0075.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0076.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0077.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0078.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0079.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0080.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0081.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0082.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0083.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0084.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0085.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0086.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0087.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0088.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0089.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0090.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0091.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0092.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0093.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0094.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0095.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0096.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0097.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0098.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0099.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0100.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0101.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0102.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0103.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0104.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0105.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0106.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0107.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0108.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0109.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0110.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0111.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0112.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0113.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0114.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0115.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0116.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0117.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0118.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0119.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0120.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0121.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0122.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0123.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0124.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0125.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0126.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0127.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0128.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0129.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0130.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0131.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0132.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0133.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0134.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0135.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0136.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0137.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0138.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0139.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0140.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0141.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0142.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0143.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0144.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0145.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0146.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0147.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0148.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0149.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0150.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0151.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0152.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0153.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0154.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0155.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0156.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0157.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0158.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0159.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0160.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0161.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0162.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0163.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0164.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0165.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0166.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0167.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0168.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0169.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0170.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0171.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0172.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0173.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0174.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0175.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0176.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0177.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0178.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0179.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0180.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0181.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0182.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0183.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0184.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0185.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0186.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0187.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0188.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0189.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0190.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0191.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0192.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0193.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0194.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0195.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0196.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0197.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0198.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0199.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0200.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0201.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0202.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0203.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0204.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0205.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0206.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0207.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0208.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0209.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0210.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0211.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0212.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0213.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0214.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0215.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0216.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0217.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0218.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0219.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0220.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0221.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0222.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0223.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0224.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0225.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0226.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0227.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0228.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0229.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0230.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0231.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0232.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0233.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0234.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0235.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0236.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0237.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0238.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0239.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0240.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0241.png
+		position_x=0
+		position_y=0
+
+
+	Frame=cinematic_0242.png
+		position_x=0
+		position_y=0
+
+
+
+image=cinematic_0001.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0002.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0003.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0004.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0005.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0006.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0007.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0008.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0009.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0010.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0011.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0012.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0013.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0014.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0015.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0016.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0017.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0018.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0019.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0020.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0021.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0022.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0023.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0024.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0025.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0026.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0027.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0028.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0029.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0030.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0031.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0032.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0033.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0034.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0035.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0036.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0037.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0038.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0039.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0040.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0041.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0042.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0043.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0044.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0045.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0046.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0047.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0048.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0049.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0050.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0051.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0052.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0053.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0054.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0055.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0056.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0057.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0058.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0059.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0060.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0061.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0062.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0063.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0064.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0065.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0066.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0067.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0068.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0069.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0070.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0071.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0072.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0073.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0074.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0075.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0076.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0077.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0078.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0079.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0080.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0081.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0082.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0083.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0084.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0085.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0086.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0087.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0088.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0089.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0090.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0091.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0092.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0093.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0094.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0095.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0096.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0097.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0098.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0099.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0100.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0101.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0102.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0103.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0104.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0105.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0106.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0107.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0108.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0109.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0110.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0111.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0112.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0113.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0114.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0115.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0116.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0117.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0118.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0119.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0120.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0121.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0122.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0123.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0124.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0125.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0126.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0127.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0128.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0129.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0130.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0131.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0132.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0133.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0134.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0135.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0136.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0137.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0138.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0139.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0140.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0141.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0142.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0143.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0144.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0145.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0146.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0147.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0148.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0149.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0150.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0151.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0152.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0153.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0154.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0155.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0156.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0157.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0158.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0159.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0160.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0161.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0162.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0163.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0164.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0165.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0166.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0167.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0168.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0169.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0170.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0171.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0172.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0173.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0174.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0175.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0176.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0177.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0178.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0179.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0180.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0181.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0182.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0183.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0184.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0185.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0186.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0187.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0188.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0189.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0190.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0191.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0192.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0193.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0194.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0195.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0196.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0197.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0198.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0199.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0200.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0201.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0202.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0203.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0204.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0205.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0206.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0207.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0208.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0209.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0210.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0211.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0212.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0213.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0214.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0215.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0216.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0217.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0218.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0219.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0220.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0221.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0222.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0223.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0224.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0225.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0226.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0227.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0228.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0229.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0230.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0231.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0232.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0233.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0234.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0235.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0236.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0237.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0238.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0239.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0240.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0241.png
+	position_x=0
+	position_y=0
+	compression=4
+
+
+image=cinematic_0242.png
+	position_x=0
+	position_y=0
+	compression=4
