@@ -12,3 +12,13 @@
 *.[Ii][Nn][Ii]
 *.[Ll][Oo][Gg]
 listing.json
+
+# Graphics and audio in non-Piklib formats
+*.png
+*.xcf
+*.mp4
+*.mp3
+
+# Anndrzem description files
+*.mann
+*.mimg
