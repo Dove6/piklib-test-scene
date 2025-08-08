@@ -1,1 +1,1 @@
-£owienie wcale nie powinno byæ takie trudne, prawda? Przy odrobinie szczêœcia, odzyskam lejek raz-dwa!|6000|NULL|NULL|NULL|NULL|NULL
+ |1|ON_USE_WEDKA|NULL|NULL|NULL|NULL
