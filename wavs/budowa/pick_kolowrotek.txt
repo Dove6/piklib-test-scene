@@ -1,3 +1,3 @@
-Ko³owrotek, hm... Niektórzy by powiedzieli, ¿e fortuna ko-ko-ko³em siê toczy. Niestety, mój drogi bracie, twój los by³ wyj¹tkowo niefortunny. A wszystko to... Wszystko przeze mnie... Jak mam przestaæ o tobie myœleæ?|10000|NULL|NULL|NULL|NULL|NULL
-Mam nadziejê, ¿e widzisz mnie stamt¹d. ¯e dasz radê odczytaæ moj¹ wiadomoœæ.|10000|NULL|NULL|NULL|NULL|NULL
+Ko³owrotek, hm... Niektórzy by powiedzieli, ¿e fortuna ko-ko-ko³em siê toczy. Niestety, mój drogi bracie, twój los by³ wyj¹tkowo niefortunny. A wszystko to... Wszystko przeze mnie... Jak mam przestaæ o tobie myœleæ?|16000|NULL|NULL|NULL|NULL|NULL
+Mam nadziejê, ¿e widzisz mnie stamt¹d. ¯e dasz radê odczytaæ moj¹ wiadomoœæ.|7000|NULL|NULL|NULL|NULL|NULL
 ...Haa, ha, ha, o kogo ja siê martwiê. Znaj¹c ciebie, u³o¿y³byœ nawet ka¿d¹ z gwiazd po swojemu...|10000|NULL|NULL|NULL|NULL|NULL

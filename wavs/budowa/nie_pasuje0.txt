@@ -1,1 +1,1 @@
-Hmmm, chyba nie tego szukam.|10000|NULL|NULL|NULL|NULL|NULL
+Hmmm, chyba nie tego szukam.|5000|NULL|NULL|NULL|NULL|NULL

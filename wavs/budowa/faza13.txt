@@ -1,2 +1,2 @@
-Co gdyby tak przenieœæ list poprzez niæ? Hm... To mo¿e byæ dobry pomys³! Ju¿ dok³adam szpulkê!|8000|NULL|NULL|NULL|NULL|NULL
-No, prak-ktycznie koniec. Wystarczy jeszcze tylko-ko wszystko dok³adnie zwi¹zaæ, ¿eby siê nie rozlecia³o na wietrze, i mo¿na rozpocz¹æ pisanie!|10000|NULL|NULL|NULL|NULL|NULL
+Co gdyby tak przenieœæ list poprzez niæ? Hm... To mo¿e byæ dobry pomys³! Ju¿ dok³adam szpulkê!|10000|NULL|NULL|NULL|NULL|NULL
+No, prak-ktycznie koniec. Wystarczy jeszcze tylko-ko wszystko dok³adnie zwi¹zaæ, ¿eby siê nie rozlecia³o na wietrze, i mo¿na rozpocz¹æ pisanie!|12000|NULL|NULL|NULL|NULL|NULL

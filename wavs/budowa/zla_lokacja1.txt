@@ -1,1 +1,1 @@
-Na pewno tutaj?|10000|NULL|NULL|NULL|NULL|NULL
+Na pewno tutaj?|4000|NULL|NULL|NULL|NULL|NULL

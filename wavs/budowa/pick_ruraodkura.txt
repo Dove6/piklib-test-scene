@@ -1,2 +1,2 @@
-Mo¿e i mamy tutaj wiele kur, ale nie mo¿emy ¿yæ w zakurzonych ku-kurnikach. Z tego powodu po¿yczyliœmy niedawno od s¹siada odku-kurzacz.|8000|NULL|NULL|NULL|NULL|NULL
-Nasz ku-ku-kurki nie mog³y jednak znieœæ jego szumu, oddaliœmy go wiêc prêdko. Jak widaæ, nie w komplecie...|8000|NULL|NULL|NULL|NULL|NULL
+Mo¿e i mamy tutaj wiele kur, ale nie mo¿emy ¿yæ w zakurzonych ku-kurnikach. Z tego powodu po¿yczyliœmy niedawno od s¹siada odku-kurzacz.|11000|NULL|NULL|NULL|NULL|NULL
+Nasze ku-ku-kurki nie mog³y jednak znieœæ jego szumu, oddaliœmy go wiêc prêdko. Jak widaæ, nie w komplecie...|10000|NULL|NULL|NULL|NULL|NULL

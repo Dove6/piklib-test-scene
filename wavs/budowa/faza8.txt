@@ -1,2 +1,2 @@
-Po wielu zmaganiach uda³o mi siê zdobyæ lejek. Nieskromnie mówi¹c, s¹dzê, ¿e posz³o mi bezb³êdnie i bezproblemowo.|8000|NULL|NULL|NULL|NULL|NULL
-Teraz natomiast muszê znaleŸæ tak zwany radiator, czyli coœ, co umo¿liwi mi odprowadzenie ciep³a z g-gwiezdnego kuriera.|8000|NULL|NULL|NULL|NULL|NULL
+Po wielu zmaganiach uda³o mi siê zdobyæ lejek. Nieskromnie mówi¹c, s¹dzê, ¿e posz³o mi bezb³êdnie i bezproblemowo.|10000|NULL|NULL|NULL|NULL|NULL
+A teraz... Hm... Wygenerowanie silnego-go sygna³u oznacza wytworzenie du¿ej iloœci ciep³a. Muszê znaleŸæ coœ, co pozwoli mi je wypromieniowaæ do otoczenia. Tak zwany, ko-ko, radiator.|17000|NULL|NULL|NULL|NULL|NULL

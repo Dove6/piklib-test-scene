@@ -1,2 +1,2 @@
-Pamiêtam jak dziœ - to by³ maj, pachnia³a mokra ziemia. Siedzieliœmy z naszym tatkiem nad stawem. Opowiada³ nam, ¿e za jego lat ku-kurczêcych na pagórkach za stawem sta³y huœtawki.|8000|NULL|NULL|NULL|NULL|NULL
-Nie dotrwa³y jednak naszych czasów. Ta opona to pewnie jedyne, co z nich pozosta³o...|8000|NULL|NULL|NULL|NULL|NULL
+Pamiêtam jak dziœ - to by³ maj, pachnia³a mokra ziemia. Siedzieliœmy z naszym tatkiem nad stawem. Opowiada³ nam, ¿e za jego lat ku-kurczêcych na pagórkach za stawem sta³y huœtawki.|14000|NULL|NULL|NULL|NULL|NULL
+Nie dotrwa³y jednak do naszych czasów. Ta opona to pewnie jedyne, co z nich pozosta³o...|8000|NULL|NULL|NULL|NULL|NULL

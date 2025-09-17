@@ -1,1 +1,1 @@
-To siê teraz nie przyda!|10000|NULL|NULL|NULL|NULL|NULL
+To siê teraz nie przyda!|5000|NULL|NULL|NULL|NULL|NULL

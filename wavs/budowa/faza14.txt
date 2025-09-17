@@ -1,2 +1,2 @@
-Gwiezdny ku-ku-kurier gotowy! Byæ mo¿e zajê³o to d³u¿ej ni¿ planowa³em, ale jestem ju¿ o ko-ko-krok od skontaktowania siê z bratem! Z pewnoœci¹ mam przy sobie jakieœ pióro.|10000|NULL|NULL|NULL|NULL|NULL
-Pora zebraæ wszystkie myœli z ostatniego kwa-kwadransa i zdecydowaæ, co pragnê mu przekazaæ...  Od czego by tu zacz¹æ...|10000|START_WRITING|NULL|NULL|NULL|NULL
+Gwiezdny ku-ku-kurier gotowy! Byæ mo¿e zajê³o to d³u¿ej ni¿ planowa³em, ale jestem ju¿ o ko-ko-krok od skontaktowania siê z bratem! Z pewnoœci¹ mam przy sobie jakieœ pióro...|13000|NULL|NULL|NULL|NULL|NULL
+Pora zebraæ wszystkie myœli z ostatniego kwa-kwadransa i zdecydowaæ, co pragnê mu przekazaæ... Od czego by tu zacz¹æ...|11000|START_WRITING|NULL|NULL|NULL|NULL

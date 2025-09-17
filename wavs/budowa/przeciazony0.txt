@@ -1,2 +1,2 @@
-Nawet taki wynalazca jak ja nie wynalaz³ sposobu na wiêcej ni¿ dwa skrzyd³a!|7000|NULL|NULL|NULL|NULL|NULL
-Muszê najpierw pozbyæ siê jednego z trzymanych przedmiotów, by móc wzi¹æ ko-ko-kolejny.|5000|NULL|NULL|NULL|NULL|NULL
+Nawet taki wynalazca jak ja nie wynalaz³ sposobu na wiêcej ni¿ dwa skrzyd³a!|8000|NULL|NULL|NULL|NULL|NULL
+Muszê najpierw pozbyæ siê jednego z trzymanych przedmiotów, by móc wzi¹æ ko-ko-kolejny.|8000|NULL|NULL|NULL|NULL|NULL

@@ -1,2 +1,2 @@
-C-co ja bredzê? Obcy ju¿ odlecieli, mojego brata te¿ tu ju¿ nie ma... Przepad³... Jak mam go teraz uratowaæ? Nie umiem budowaæ pojazdów ko-ko-kosmicznych...|5000|NULL|NULL|NULL|NULL|NULL
-Jedyne, co mogê zrobiæ, to wys³aæ mu jak¹œ wiadomoœæ. Mo¿e to coœ da... Szybko, póki pamiêtam, w ku-którym kierunku-ku polecieli!|10000|NULL|NULL|NULL|NULL|NULL
+C-co ja bredzê? Obcy ju¿ odlecieli, mojego brata te¿ tu ju¿ nie ma... Przepad³... Jak mam go teraz uratowaæ? Nie umiem budowaæ pojazdów ko-ko-kosmicznych...|12000|NULL|NULL|NULL|NULL|NULL
+Jedyne, co mogê zrobiæ, to wys³aæ mu jak¹œ wiadomoœæ. Mo¿e to coœ da... Szybko, póki pamiêtam, w ku-którym kierunku-ku polecieli!|12000|NULL|NULL|NULL|NULL|NULL

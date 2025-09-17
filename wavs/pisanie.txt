@@ -1,9 +1,9 @@
 No dobrze... Po kolei... Najpierw pocz¹tek. Jak by tu zacz¹æ...?<br><br>a) Kochany Korneliuszku...<br>b) Siema Brachu!<br>c) hej ;3|0|NULL|NULL|APPEND_A|APPEND_B|APPEND_C
-D³ugo siê zastanawia³em, od czego zacz¹æ ten list. Nie jestem pewien, czy w ogóle do ciebie dotrze.|10000|NULL|NULL|NULL|NULL|NULL
+D³ugo siê zastanawia³em, od czego zacz¹æ ten list. Nie jestem nawet pewien, czy w ogóle do ciebie dotrze.|8000|NULL|NULL|NULL|NULL|NULL
 Ostatniej nocy, gdy przyby³o to coœ z kosmosu...<br>a) cieszy³em siê, ¿e nareszcie nie muszê siê tob¹ zajmowaæ<br>b) bardzo siê o ciebie martwi³em<br>c) zemdla³em ze strachu|0|NULL|APPEND_A|APPEND_B|APPEND_C|NULL
-Nie wiem, czy nadal jeszcze ¿yjesz lub czy traktuj¹ ciê tam dobrze, gdziekolwiek jesteœ... Mo¿e traktuj¹ ciê jak króla? Mo¿e zes³ali do ciê¿kich robót kopalnianych?|10000|NULL|NULL|NULL|NULL|NULL
+Nie wiem, czy nadal jeszcze ¿yjesz lub czy traktuj¹ ciê tam dobrze, gdziekolwiek jesteœ... Mo¿e traktuj¹ ciê jak króla? Mo¿e zes³ali do ciê¿kich robót kopalnianych?|13000|NULL|NULL|NULL|NULL|NULL
 Mam nadziejê, ¿e...<br>a) poradzisz tam sobie i prze¿yjesz wspania³¹ podró¿<br>b) nie ¿yje ci siê tam wygodniej ni¿ na naszym podwórku!!1!1!<br>c) szybko wrócisz do domu|0|NULL|APPEND_A|APPEND_B|APPEND_C|NULL
-Sam, ze wszystkich si³, staram siê nawi¹zaæ z tob¹ kontakt. Ca³¹ noc poœwiêci³em na budowanie wynalazku, który móg³by mi pozwoliæ siê z tob¹ skontaktowaæ.|10000|NULL|NULL|NULL|NULL|NULL
+Sam ze wszystkich si³ staram siê nawi¹zaæ z tob¹ kontakt. Ca³¹ noc poœwiêci³em na budowanie wynalazku, który móg³by mi pozwoliæ siê z tob¹ skontaktowaæ.|12000|NULL|NULL|NULL|NULL|NULL
 a) To wszystko przez ciebie, bo to tyœ mnie wepchn¹³ do warsztatu!<br>b) Jeœli czytasz tê wiadomoœæ, to dziêki determinacji, która pozwoli³a mi udoskonaliæ projekt do perfekcji.<br>c) Poœwiêci³em tyle uwagi nad budowl¹, ¿ebyœ tylko dosta³ tê wiadomoœæ.|0|APPEND_A|APPEND_B|NULL|APPEND_C|NULL
 Gdybym tylko móg³ cofn¹æ czas, poœwiêca³bym ci wiêcej uwagi, bardziej docenia³ ka¿d¹ chwilê spêdzon¹ razem<br>a) i nie pozwoli³bym ci zaj¹æ mojego miejsca<br>b) oraz tworzy³ jak najwiêcej wspania³ych wspomnieñ<br>c) a przede wszystkim czêœciej bym siê z ciebie œmia³!|0|NULL|NULL|APPEND_A|APPEND_B|APPEND_C
 Buziaczki, Kogut.<br><br>No, to chyba tyle... Mam nadziejê, ¿e moje s³owa do niego dotr¹.|0|FINISH_WRITING|NULL|NULL|NULL|NULL

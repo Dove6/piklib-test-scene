@@ -1,2 +1,2 @@
-O rety, Kornelku-ku-ku!!! Dlaczego to ciebie porwa³ ten statek?!|5000|NULL|NULL|NULL|NULL|NULL
-Co robiæ, co robiæ...? Wiem! Szybko, muszê znaleŸæ miejsce do budowy wynalazku, który pozwoli³by mi go-go u-uratowaæ!|8000|NULL|NULL|NULL|NULL|NULL
+O rety, Kornelku-ku-ku!!! Dlaczego to ciebie porwa³ ten statek?!|7000|NULL|NULL|NULL|NULL|NULL
+Co robiæ, co robiæ...? Wiem! Szybko, muszê znaleŸæ miejsce do budowy wynalazku, który pozwoli³by mi go-go u-uratowaæ!|11000|NULL|NULL|NULL|NULL|NULL
