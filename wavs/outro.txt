@@ -1,10 +1,10 @@
-Ach, jest przepiêknie... Mam nadziejê, ¿e tam, gdzie przebywa teraz Ko-Kornelek, widok jest równie ³adny.|9000|NULL|NULL|NULL|NULL|NULL
-Do³o¿y³em wszelkich starañ, by dodaæ mu otuchy moimi s³owami. Nic wiêcej nie mogê obecnie dla niego-go-go zrobiæ.|9000|NULL|NULL|NULL|NULL|NULL 
-...Nie mogê mieæ nawet pewnoœci, ¿e moja wiadomoœæ fakty-ktycznie do niego dotrze.|7000|NULL|NULL|NULL|NULL|NULL
-Patrz¹c na tê malownicz¹ jutrzenkê, mam w pamiêci wszystkie spêdzone z nim chwile. Dzisiejszy wieczór stanowi³ ich kre-kres... ale nigdy ich nie zapomnê...|12000|NULL|NULL|NULL|NULL|NULL
-Przeklêci kosmici! Jeœli kiedykolwiek ich jeszcze spotkam, popamiêtaj¹ mnie!|7000|NULL|NULL|NULL|NULL|NULL
-Chocia¿... Wolê sobie nie wyobra¿aæ swojego losu na obcej planecie. Na pewno sko-koñczy³bym marnie.|9000|NULL|NULL|NULL|NULL|NULL
-Kornelek za to jest bardzo m¹drym kogutem. Poradzi sobie. Ech, chcia³bym staæ siê kiedyœ tak dzielny jak on...|9000|NULL|NULL|NULL|NULL|NULL
-Bêdê mia³ zreszt¹ ku temu okazjê. Ktoœ musi przej¹æ rolê podwórkowego lidera.|8000|NULL|NULL|NULL|NULL|NULL
-A k-kiedyœ, kto wie, mo¿e posi¹dê wiedzê potrzebn¹ do wybudowania pojazdu ko-ko-kosmicznego i odbicia brata.|10000|NULL|NULL|NULL|NULL|NULL
-No có¿, czas obudziæ siostry i przekazaæ im smutne wieœci...|8000|ON_END|NULL|NULL|NULL|NULL
+Ach, jest przepiêknie... Mam nadziejê, ¿e tam, gdzie przebywa teraz Ko-Ko-Kornelek, widok jest równie ³adny.|6000|NULL|NULL|NULL|NULL|NULL
+Do³o¿y³em wszelkich starañ, by dodaæ mu otuchy moimi s³owami. Nic wiêcej nie mogê dla niego-go-go teraz zrobiæ.|6000|NULL|NULL|NULL|NULL|NULL 
+...Nie mogê nawet zapewniæ, ¿e moja wiadomoœæ fakty-ktycznie do niego dotrze.|4100|NULL|NULL|NULL|NULL|NULL
+Przed oczami mam wszystkie spêdzone z nim chwile. Dzisiejszy wieczór stanowi³ ich kres... ale nigdy ich nie zapomnê...|6100|NULL|NULL|NULL|NULL|NULL
+Przeklêci ko-kosmici! Jeszcze mnie popamiêtaj¹!|3800|NULL|NULL|NULL|NULL|NULL
+Ale teraz... Uprowadzony na obc¹ planetê na pewno sko-koñczy³bym marnie.|4500|NULL|NULL|NULL|NULL|NULL
+Kornelek jest za to bardzo m¹drym kogutem. Poradzi sobie. Ech, chcia³bym staæ siê kiedyœ tak dzielny jak on...|6000|NULL|NULL|NULL|NULL|NULL
+Na razie muszê przej¹æ rolê podwórko-kowego lidera. Mam nadziejê, ¿e sobie poradzê...|4500|NULL|NULL|NULL|NULL|NULL
+A k-kiedyœ, kto wie, mo¿e posi¹dê wiedzê potrzebn¹ do wybudowania pojazdu ko-ko-kosmicznego i odbicia brata.|6400|NULL|NULL|NULL|NULL|NULL
+No có¿, czas obudziæ siostry i przekazaæ im smutne wieœci...|6000|ON_END|NULL|NULL|NULL|NULL
